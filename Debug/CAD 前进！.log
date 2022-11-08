@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\shinelon\source\repos\CAD 前进！\CAD 前进！\源.cpp(320,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shinelon\source\repos\CAD 前进！\CAD 前进！\源.cpp(495,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shinelon\source\repos\CAD 前进！\CAD 前进！\源.cpp(509,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shinelon\source\repos\CAD 前进！\CAD 前进！\源.cpp(644,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\shinelon\source\repos\CAD 前进！\CAD 前进！\源.cpp(673,20): warning C4018: “<”: 有符号/无符号不匹配
+  CAD 前进！.vcxproj -> C:\Users\shinelon\source\repos\CAD 前进！\Debug\CAD 前进！.exe
